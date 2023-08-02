@@ -69,7 +69,7 @@ nav    {
   }
 h2 {
     margin-top: 20px;
-    margin-left: 0px;
+    margin-left: 30px;
 }
   P {
     display: flex;
@@ -121,11 +121,14 @@ h2 {
     margin-top: 10px;
     margin-left: 10px;
   }
-.presidents {
+.president {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 10px;
 }
+.presidents {
+Width:300px}
+
   .protrait {
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -134,14 +137,13 @@ h2 {
     column-gap: 10px;
     row-gap: 10px;
     background-color: bisque;
-    width: 70%;
-    position: fixed;
+    width: 1000px;
+    position: relative;
     left: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-right: 150px;
     margin-top: 0px;
     padding-left: 5px;
-    
+    height:350px;
   }
   .P1 {
     width: 100px;
@@ -152,7 +154,11 @@ h2 {
     background-color: saddlebrown;
     width:80px;
     border-radius: 40px;
-      }
+    margin-left:70px;
+            }
+.notable {
+    margin-left:30px;
+}
 .new-tips {
   display: flex;
   flex-direction: row;
