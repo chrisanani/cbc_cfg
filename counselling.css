@@ -319,6 +319,7 @@ Width:300px}
       border: 1px solid;
       row-gap: 5px;
       column-gap: 10px;
+      align-items:centre;
     }
     .grid-container {
       display: grid;
