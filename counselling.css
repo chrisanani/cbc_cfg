@@ -125,6 +125,7 @@ h2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 10px;
+ padding-bottom:30px;
 }
 .presidents {
 Width:300px}
